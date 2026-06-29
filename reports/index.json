@@ -4,6 +4,29 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20260629-204220-b3l7",
+      "title": "Arthur Stonehenge",
+      "commanders": [
+        "Arthur Stonehenge"
+      ],
+      "dateStart": "2026-06-29T18:42:20.000Z",
+      "dateEnd": "2026-06-29T19:35:29.000Z",
+      "dateLabel": "29-6-2026, 20:42:20 - 29-6-2026, 21:35:29",
+      "url": "https://Xerioux.github.io/gw2reports/?report=20260629-204220-b3l7",
+      "summary": {
+        "borderlandsPct": 1,
+        "mapSlices": [
+          {
+            "name": "Blue Borderlands",
+            "value": 21,
+            "color": "#3b82f6"
+          }
+        ],
+        "avgSquadSize": 39,
+        "avgEnemySize": 48
+      }
+    },
+    {
       "id": "20260628-212954-27wo",
       "title": "Venomnomnóm",
       "commanders": [
