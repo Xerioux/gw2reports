@@ -1,0 +1,30 @@
+{
+  "colorPalette": "refined-cyan",
+  "glassSurfaces": false,
+  "glassmorphic": false,
+  "entries": [
+    {
+      "id": "20260628-212954-27wo",
+      "title": "Venomnomnóm",
+      "commanders": [
+        "Venomnomnóm"
+      ],
+      "dateStart": "2026-06-28T19:29:54.000Z",
+      "dateEnd": "2026-06-28T20:02:18.000Z",
+      "dateLabel": "28-6-2026, 21:29:54 - 28-6-2026, 22:02:18",
+      "url": "https://Xerioux.github.io/gw2reports/?report=20260628-212954-27wo",
+      "summary": {
+        "borderlandsPct": 1,
+        "mapSlices": [
+          {
+            "name": "Blue Borderlands",
+            "value": 45,
+            "color": "#3b82f6"
+          }
+        ],
+        "avgSquadSize": 26,
+        "avgEnemySize": 22
+      }
+    }
+  ]
+}
