@@ -4,6 +4,29 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20260701-203215-x3ax",
+      "title": "Kaiser Kartoffel",
+      "commanders": [
+        "Kaiser Kartoffel"
+      ],
+      "dateStart": "2026-07-01T18:32:15.000Z",
+      "dateEnd": "2026-07-01T19:22:03.000Z",
+      "dateLabel": "1-7-2026, 20:32:15 - 1-7-2026, 21:22:03",
+      "url": "https://Xerioux.github.io/gw2reports/?report=20260701-203215-x3ax",
+      "summary": {
+        "borderlandsPct": 1,
+        "mapSlices": [
+          {
+            "name": "Green Borderlands",
+            "value": 22,
+            "color": "#22c55e"
+          }
+        ],
+        "avgSquadSize": 29,
+        "avgEnemySize": 41
+      }
+    },
+    {
       "id": "20260629-204220-b3l7",
       "title": "Arthur Stonehenge",
       "commanders": [
