@@ -4,6 +4,39 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20260703-210940-okju",
+      "title": "Skyhighjinks",
+      "commanders": [
+        "Skyhighjinks"
+      ],
+      "dateStart": "2026-07-03T19:09:40.000Z",
+      "dateEnd": "2026-07-03T20:15:54.000Z",
+      "dateLabel": "3-7-2026, 21:09:40 - 3-7-2026, 22:15:54",
+      "url": "https://Xerioux.github.io/gw2reports/?report=20260703-210940-okju",
+      "summary": {
+        "borderlandsPct": 1,
+        "mapSlices": [
+          {
+            "name": "Green Borderlands",
+            "value": 22,
+            "color": "#22c55e"
+          },
+          {
+            "name": "Blue Borderlands",
+            "value": 5,
+            "color": "#3b82f6"
+          },
+          {
+            "name": "Red Borderlands",
+            "value": 3,
+            "color": "#ef4444"
+          }
+        ],
+        "avgSquadSize": 25,
+        "avgEnemySize": 37
+      }
+    },
+    {
       "id": "20260701-203215-x3ax",
       "title": "Kaiser Kartoffel",
       "commanders": [
