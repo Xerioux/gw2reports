@@ -4,6 +4,39 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20260723-201703-skvy",
+      "title": "Venomnomnóm",
+      "commanders": [
+        "Venomnomnóm"
+      ],
+      "dateStart": "2026-07-23T18:17:03.000Z",
+      "dateEnd": "2026-07-23T19:13:33.000Z",
+      "dateLabel": "23-7-2026, 20:17:03 - 23-7-2026, 21:13:33",
+      "url": "https://Xerioux.github.io/gw2reports/?report=20260723-201703-skvy",
+      "summary": {
+        "borderlandsPct": 0.22033898305084745,
+        "mapSlices": [
+          {
+            "name": "Edge of the Mists",
+            "value": 29,
+            "color": "#64748b"
+          },
+          {
+            "name": "Obsidian Sanctum",
+            "value": 17,
+            "color": "#64748b"
+          },
+          {
+            "name": "Blue Borderlands",
+            "value": 13,
+            "color": "#3b82f6"
+          }
+        ],
+        "avgSquadSize": 26,
+        "avgEnemySize": 32
+      }
+    },
+    {
       "id": "20260703-210940-okju",
       "title": "Skyhighjinks",
       "commanders": [
