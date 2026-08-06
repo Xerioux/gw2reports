@@ -4,6 +4,34 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20260806-212403-hlnp",
+      "title": "Venomnomnóm",
+      "commanders": [
+        "Venomnomnóm"
+      ],
+      "guild": {
+        "id": "66B6911E-2A34-F111-BB23-067697280D5B",
+        "name": "I Lmpw Flawless Execution",
+        "tag": "lmpw"
+      },
+      "dateStart": "2026-08-06T19:24:03.000Z",
+      "dateEnd": "2026-08-06T20:06:46.000Z",
+      "dateLabel": "6-8-2026, 21:24:03 - 6-8-2026, 22:06:46",
+      "url": "https://Xerioux.github.io/gw2reports/?report=20260806-212403-hlnp",
+      "summary": {
+        "borderlandsPct": 0,
+        "mapSlices": [
+          {
+            "name": "Obsidian Sanctum",
+            "value": 37,
+            "color": "#64748b"
+          }
+        ],
+        "avgSquadSize": 30,
+        "avgEnemySize": 31
+      }
+    },
+    {
       "id": "20260723-201703-skvy",
       "title": "Venomnomnóm",
       "commanders": [
