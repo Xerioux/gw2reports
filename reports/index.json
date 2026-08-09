@@ -4,6 +4,39 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20260809-201155-aa2u",
+      "title": "Venômnomnóm",
+      "commanders": [
+        "Venômnomnóm"
+      ],
+      "guild": {
+        "id": "66B6911E-2A34-F111-BB23-067697280D5B",
+        "name": "I Lmpw Flawless Execution",
+        "tag": "lmpw"
+      },
+      "dateStart": "2026-08-09T18:11:55.000Z",
+      "dateEnd": "2026-08-09T18:59:07.000Z",
+      "dateLabel": "9-8-2026, 20:11:55 - 9-8-2026, 20:59:07",
+      "url": "https://Xerioux.github.io/gw2reports/?report=20260809-201155-aa2u",
+      "summary": {
+        "borderlandsPct": 1,
+        "mapSlices": [
+          {
+            "name": "Blue Borderlands",
+            "value": 12,
+            "color": "#3b82f6"
+          },
+          {
+            "name": "Green Borderlands",
+            "value": 4,
+            "color": "#22c55e"
+          }
+        ],
+        "avgSquadSize": 28,
+        "avgEnemySize": 41
+      }
+    },
+    {
       "id": "20260809-200927-hmy2",
       "title": "Venômnomnóm",
       "commanders": [
