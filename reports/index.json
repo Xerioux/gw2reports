@@ -4,6 +4,34 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20260817-201030-npxd",
+      "title": "Venomnomnóm",
+      "commanders": [
+        "Venomnomnóm"
+      ],
+      "guild": {
+        "id": "60C1E029-6D92-F111-BB0A-02C03D08B4F1",
+        "name": "Project Continuum",
+        "tag": "Flux"
+      },
+      "dateStart": "2026-08-17T18:10:30.000Z",
+      "dateEnd": "2026-08-17T19:17:12.000Z",
+      "dateLabel": "17-8-2026, 20:10:30 - 17-8-2026, 21:17:12",
+      "url": "https://Xerioux.github.io/gw2reports/?report=20260817-201030-npxd",
+      "summary": {
+        "borderlandsPct": 1,
+        "mapSlices": [
+          {
+            "name": "Red Borderlands",
+            "value": 19,
+            "color": "#ef4444"
+          }
+        ],
+        "avgSquadSize": 31,
+        "avgEnemySize": 52
+      }
+    },
+    {
       "id": "20260817-195925-ctz9",
       "title": "Venomnomnóm",
       "commanders": [
