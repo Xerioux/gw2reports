@@ -1,8 +1,42 @@
 {
   "colorPalette": "refined-cyan",
-  "glassSurfaces": false,
+  "glassSurfaces": true,
   "glassmorphic": false,
   "entries": [
+    {
+      "id": "20260818-200621-ftam",
+      "title": "Arthur Stonehenge, T B E Killu",
+      "commanders": [
+        "Arthur Stonehenge",
+        "T B E Killu"
+      ],
+      "guild": {
+        "id": "60C1E029-6D92-F111-BB0A-02C03D08B4F1",
+        "name": "Project Continuum",
+        "tag": "Flux"
+      },
+      "dateStart": "2026-08-18T18:06:21.000Z",
+      "dateEnd": "2026-08-18T18:58:20.000Z",
+      "dateLabel": "18-8-2026, 20:06:21 - 18-8-2026, 20:58:20",
+      "url": "https://Xerioux.github.io/gw2reports/?report=20260818-200621-ftam",
+      "summary": {
+        "borderlandsPct": 1,
+        "mapSlices": [
+          {
+            "name": "Green Borderlands",
+            "value": 21,
+            "color": "#22c55e"
+          },
+          {
+            "name": "Blue Borderlands",
+            "value": 8,
+            "color": "#3b82f6"
+          }
+        ],
+        "avgSquadSize": 33,
+        "avgEnemySize": 52
+      }
+    },
     {
       "id": "20260817-201030-npxd",
       "title": "Venomnomnóm",
