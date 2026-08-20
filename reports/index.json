@@ -1,8 +1,36 @@
 {
-  "colorPalette": "refined-cyan",
-  "glassSurfaces": true,
+  "colorPalette": "amber-warm",
+  "glassSurfaces": false,
   "glassmorphic": false,
   "entries": [
+    {
+      "id": "20260820-205930-47pf",
+      "title": "Venomnomnóm",
+      "commanders": [
+        "Venomnomnóm"
+      ],
+      "guild": {
+        "id": "DFC4F4C1-99CD-EE11-81B7-C3B1C0E42B51",
+        "name": "The Upper Echelons",
+        "tag": "KEKW"
+      },
+      "dateStart": "2026-08-20T18:59:30.000Z",
+      "dateEnd": "2026-08-20T19:45:57.544Z",
+      "dateLabel": "20-8-2026, 20:59:30 - 20-8-2026, 21:45:57",
+      "url": "https://Xerioux.github.io/gw2reports/?report=20260820-205930-47pf",
+      "summary": {
+        "borderlandsPct": 0,
+        "mapSlices": [
+          {
+            "name": "Edge of the Mists",
+            "value": 20,
+            "color": "#64748b"
+          }
+        ],
+        "avgSquadSize": 29,
+        "avgEnemySize": 29
+      }
+    },
     {
       "id": "20260818-200621-ftam",
       "title": "Arthur Stonehenge, T B E Killu",
