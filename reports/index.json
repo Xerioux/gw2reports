@@ -1,8 +1,41 @@
 {
   "colorPalette": "amber-warm",
-  "glassSurfaces": false,
+  "glassSurfaces": true,
   "glassmorphic": false,
   "entries": [
+    {
+      "id": "20260905-201312-bk38",
+      "title": "Kaiser Kappu",
+      "commanders": [
+        "Kaiser Kappu"
+      ],
+      "guild": {
+        "id": "58F22165-8801-EE11-81B7-C3B1C0E42B51",
+        "name": "Æquínox",
+        "tag": "ÆX"
+      },
+      "dateStart": "2026-09-05T18:13:12.000Z",
+      "dateEnd": "2026-09-05T18:54:43.827Z",
+      "dateLabel": "5-9-2026, 20:13:12 - 5-9-2026, 20:54:43",
+      "url": "https://Xerioux.github.io/gw2reports/?report=20260905-201312-bk38",
+      "summary": {
+        "borderlandsPct": 0.45454545454545453,
+        "mapSlices": [
+          {
+            "name": "World vs World",
+            "value": 24,
+            "color": "#64748b"
+          },
+          {
+            "name": "Green Borderlands",
+            "value": 20,
+            "color": "#22c55e"
+          }
+        ],
+        "avgSquadSize": 48,
+        "avgEnemySize": 44
+      }
+    },
     {
       "id": "20260829-211718-9qdu",
       "title": "Arthur Stonehenge",
