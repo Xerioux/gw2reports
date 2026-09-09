@@ -33,39 +33,6 @@
     }
   },
   {
-    "id": "20260907-204709-9jua",
-    "title": "Venomnomnóm",
-    "commanders": [
-      "Venomnomnóm"
-    ],
-    "guild": {
-      "id": "60C1E029-6D92-F111-BB0A-02C03D08B4F1",
-      "name": "Project Continuum",
-      "tag": "Flux"
-    },
-    "dateStart": "2026-09-07T18:47:09.000Z",
-    "dateEnd": "2026-09-07T19:49:58.280Z",
-    "dateLabel": "7-9-2026, 20:47:09 - 7-9-2026, 21:49:58",
-    "url": "https://Xerioux.github.io/gw2reports/?report=20260907-204709-9jua",
-    "summary": {
-      "borderlandsPct": 0.5769230769230769,
-      "mapSlices": [
-        {
-          "name": "Red Borderlands",
-          "value": 15,
-          "color": "#ef4444"
-        },
-        {
-          "name": "Edge of the Mists",
-          "value": 11,
-          "color": "#64748b"
-        }
-      ],
-      "avgSquadSize": 37,
-      "avgEnemySize": 46
-    }
-  },
-  {
     "id": "20260905-201312-bk38",
     "title": "Kaiser Kappu",
     "commanders": [
