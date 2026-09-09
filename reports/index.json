@@ -1,547 +1,509 @@
-{
-  "colorPalette": "amber-warm",
-  "glassSurfaces": true,
-  "glassmorphic": false,
-  "entries": [
-    {
-      "id": "20260907-204709-o4w6",
-      "title": "Venomnomnóm",
-      "commanders": [
-        "Venomnomnóm"
-      ],
-      "guild": {
-        "id": "60C1E029-6D92-F111-BB0A-02C03D08B4F1",
-        "name": "Project Continuum",
-        "tag": "Flux"
-      },
-      "dateStart": "2026-09-07T18:47:09.000Z",
-      "dateEnd": "2026-09-07T19:49:58.280Z",
-      "dateLabel": "7-9-2026, 20:47:09 - 7-9-2026, 21:49:58",
-      "url": "https://Xerioux.github.io/gw2reports/?report=20260907-204709-o4w6",
-      "summary": {
-        "borderlandsPct": 0.5769230769230769,
-        "mapSlices": [
-          {
-            "name": "Red Borderlands",
-            "value": 15,
-            "color": "#ef4444"
-          },
-          {
-            "name": "Edge of the Mists",
-            "value": 11,
-            "color": "#64748b"
-          }
-        ],
-        "avgSquadSize": 37,
-        "avgEnemySize": 46
-      }
+[
+  {
+    "id": "20260907-204709-o4w6",
+    "title": "Venomnomnóm",
+    "commanders": [
+      "Venomnomnóm"
+    ],
+    "guild": {
+      "id": "60C1E029-6D92-F111-BB0A-02C03D08B4F1",
+      "name": "Project Continuum",
+      "tag": "Flux"
     },
-    {
-      "id": "20260907-204709-y45g",
-      "title": "Venomnomnóm",
-      "commanders": [
-        "Venomnomnóm"
+    "dateStart": "2026-09-07T18:47:09.000Z",
+    "dateEnd": "2026-09-07T19:49:58.280Z",
+    "dateLabel": "7-9-2026, 20:47:09 - 7-9-2026, 21:49:58",
+    "url": "https://Xerioux.github.io/gw2reports/?report=20260907-204709-o4w6",
+    "summary": {
+      "borderlandsPct": 0.5769230769230769,
+      "mapSlices": [
+        {
+          "name": "Red Borderlands",
+          "value": 15,
+          "color": "#ef4444"
+        },
+        {
+          "name": "Edge of the Mists",
+          "value": 11,
+          "color": "#64748b"
+        }
       ],
-      "guild": {
-        "id": "60C1E029-6D92-F111-BB0A-02C03D08B4F1",
-        "name": "Project Continuum",
-        "tag": "Flux"
-      },
-      "dateStart": "2026-09-07T18:47:09.000Z",
-      "dateEnd": "2026-09-07T19:49:58.280Z",
-      "dateLabel": "7-9-2026, 20:47:09 - 7-9-2026, 21:49:58",
-      "url": "https://Xerioux.github.io/gw2reports/?report=20260907-204709-y45g",
-      "summary": {
-        "borderlandsPct": 0.5769230769230769,
-        "mapSlices": [
-          {
-            "name": "Red Borderlands",
-            "value": 15,
-            "color": "#ef4444"
-          },
-          {
-            "name": "Edge of the Mists",
-            "value": 11,
-            "color": "#64748b"
-          }
-        ],
-        "avgSquadSize": 37,
-        "avgEnemySize": 46
-      }
-    },
-    {
-      "id": "20260907-204709-9jua",
-      "title": "Venomnomnóm",
-      "commanders": [
-        "Venomnomnóm"
-      ],
-      "guild": {
-        "id": "60C1E029-6D92-F111-BB0A-02C03D08B4F1",
-        "name": "Project Continuum",
-        "tag": "Flux"
-      },
-      "dateStart": "2026-09-07T18:47:09.000Z",
-      "dateEnd": "2026-09-07T19:49:58.280Z",
-      "dateLabel": "7-9-2026, 20:47:09 - 7-9-2026, 21:49:58",
-      "url": "https://Xerioux.github.io/gw2reports/?report=20260907-204709-9jua",
-      "summary": {
-        "borderlandsPct": 0.5769230769230769,
-        "mapSlices": [
-          {
-            "name": "Red Borderlands",
-            "value": 15,
-            "color": "#ef4444"
-          },
-          {
-            "name": "Edge of the Mists",
-            "value": 11,
-            "color": "#64748b"
-          }
-        ],
-        "avgSquadSize": 37,
-        "avgEnemySize": 46
-      }
-    },
-    {
-      "id": "20260907-202013-xp3p",
-      "title": "Venomnomnóm",
-      "commanders": [
-        "Venomnomnóm"
-      ],
-      "guild": {
-        "id": "60C1E029-6D92-F111-BB0A-02C03D08B4F1",
-        "name": "Project Continuum",
-        "tag": "Flux"
-      },
-      "dateStart": "2026-09-07T18:20:13.000Z",
-      "dateEnd": "2026-09-07T19:20:20.000Z",
-      "dateLabel": "7-9-2026, 20:20:13 - 7-9-2026, 21:20:20",
-      "url": "https://Xerioux.github.io/gw2reports/?report=20260907-202013-xp3p",
-      "summary": {
-        "borderlandsPct": 0.5769230769230769,
-        "mapSlices": [
-          {
-            "name": "Red Borderlands",
-            "value": 15,
-            "color": "#ef4444"
-          },
-          {
-            "name": "Edge of the Mists",
-            "value": 11,
-            "color": "#64748b"
-          }
-        ],
-        "avgSquadSize": 37,
-        "avgEnemySize": 46
-      }
-    },
-    {
-      "id": "20260905-201312-bk38",
-      "title": "Kaiser Kappu",
-      "commanders": [
-        "Kaiser Kappu"
-      ],
-      "guild": {
-        "id": "58F22165-8801-EE11-81B7-C3B1C0E42B51",
-        "name": "Æquínox",
-        "tag": "ÆX"
-      },
-      "dateStart": "2026-09-05T18:13:12.000Z",
-      "dateEnd": "2026-09-05T18:54:43.827Z",
-      "dateLabel": "5-9-2026, 20:13:12 - 5-9-2026, 20:54:43",
-      "url": "https://Xerioux.github.io/gw2reports/?report=20260905-201312-bk38",
-      "summary": {
-        "borderlandsPct": 0.45454545454545453,
-        "mapSlices": [
-          {
-            "name": "World vs World",
-            "value": 24,
-            "color": "#64748b"
-          },
-          {
-            "name": "Green Borderlands",
-            "value": 20,
-            "color": "#22c55e"
-          }
-        ],
-        "avgSquadSize": 48,
-        "avgEnemySize": 44
-      }
-    },
-    {
-      "id": "20260829-211718-9qdu",
-      "title": "Arthur Stonehenge",
-      "commanders": [
-        "Arthur Stonehenge"
-      ],
-      "guild": {
-        "id": "60C1E029-6D92-F111-BB0A-02C03D08B4F1",
-        "name": "Project Continuum",
-        "tag": "Flux"
-      },
-      "dateStart": "2026-08-29T19:17:18.000Z",
-      "dateEnd": "2026-08-29T19:50:36.292Z",
-      "dateLabel": "29-8-2026, 21:17:18 - 29-8-2026, 21:50:36",
-      "url": "https://Xerioux.github.io/gw2reports/?report=20260829-211718-9qdu",
-      "summary": {
-        "borderlandsPct": 1,
-        "mapSlices": [
-          {
-            "name": "Green Borderlands",
-            "value": 27,
-            "color": "#22c55e"
-          }
-        ],
-        "avgSquadSize": 35,
-        "avgEnemySize": 33
-      }
-    },
-    {
-      "id": "20260820-205930-47pf",
-      "title": "Venomnomnóm",
-      "commanders": [
-        "Venomnomnóm"
-      ],
-      "guild": {
-        "id": "DFC4F4C1-99CD-EE11-81B7-C3B1C0E42B51",
-        "name": "The Upper Echelons",
-        "tag": "KEKW"
-      },
-      "dateStart": "2026-08-20T18:59:30.000Z",
-      "dateEnd": "2026-08-20T19:45:57.544Z",
-      "dateLabel": "20-8-2026, 20:59:30 - 20-8-2026, 21:45:57",
-      "url": "https://Xerioux.github.io/gw2reports/?report=20260820-205930-47pf",
-      "summary": {
-        "borderlandsPct": 0,
-        "mapSlices": [
-          {
-            "name": "Edge of the Mists",
-            "value": 20,
-            "color": "#64748b"
-          }
-        ],
-        "avgSquadSize": 29,
-        "avgEnemySize": 29
-      }
-    },
-    {
-      "id": "20260818-200621-ftam",
-      "title": "Arthur Stonehenge, T B E Killu",
-      "commanders": [
-        "Arthur Stonehenge",
-        "T B E Killu"
-      ],
-      "guild": {
-        "id": "60C1E029-6D92-F111-BB0A-02C03D08B4F1",
-        "name": "Project Continuum",
-        "tag": "Flux"
-      },
-      "dateStart": "2026-08-18T18:06:21.000Z",
-      "dateEnd": "2026-08-18T18:58:20.000Z",
-      "dateLabel": "18-8-2026, 20:06:21 - 18-8-2026, 20:58:20",
-      "url": "https://Xerioux.github.io/gw2reports/?report=20260818-200621-ftam",
-      "summary": {
-        "borderlandsPct": 1,
-        "mapSlices": [
-          {
-            "name": "Green Borderlands",
-            "value": 21,
-            "color": "#22c55e"
-          },
-          {
-            "name": "Blue Borderlands",
-            "value": 8,
-            "color": "#3b82f6"
-          }
-        ],
-        "avgSquadSize": 33,
-        "avgEnemySize": 52
-      }
-    },
-    {
-      "id": "20260817-201030-npxd",
-      "title": "Venomnomnóm",
-      "commanders": [
-        "Venomnomnóm"
-      ],
-      "guild": {
-        "id": "60C1E029-6D92-F111-BB0A-02C03D08B4F1",
-        "name": "Project Continuum",
-        "tag": "Flux"
-      },
-      "dateStart": "2026-08-17T18:10:30.000Z",
-      "dateEnd": "2026-08-17T19:17:12.000Z",
-      "dateLabel": "17-8-2026, 20:10:30 - 17-8-2026, 21:17:12",
-      "url": "https://Xerioux.github.io/gw2reports/?report=20260817-201030-npxd",
-      "summary": {
-        "borderlandsPct": 1,
-        "mapSlices": [
-          {
-            "name": "Red Borderlands",
-            "value": 19,
-            "color": "#ef4444"
-          }
-        ],
-        "avgSquadSize": 31,
-        "avgEnemySize": 52
-      }
-    },
-    {
-      "id": "20260817-195925-ctz9",
-      "title": "Venomnomnóm",
-      "commanders": [
-        "Venomnomnóm"
-      ],
-      "guild": {
-        "id": "60C1E029-6D92-F111-BB0A-02C03D08B4F1",
-        "name": "Project Continuum",
-        "tag": "Flux"
-      },
-      "dateStart": "2026-08-17T17:59:25.000Z",
-      "dateEnd": "2026-08-17T18:55:21.000Z",
-      "dateLabel": "17-8-2026, 19:59:25 - 17-8-2026, 20:55:21",
-      "url": "https://Xerioux.github.io/gw2reports/?report=20260817-195925-ctz9",
-      "summary": {
-        "borderlandsPct": 1,
-        "mapSlices": [
-          {
-            "name": "Red Borderlands",
-            "value": 21,
-            "color": "#ef4444"
-          }
-        ],
-        "avgSquadSize": 29,
-        "avgEnemySize": 50
-      }
-    },
-    {
-      "id": "20260809-201155-aa2u",
-      "title": "Venômnomnóm",
-      "commanders": [
-        "Venômnomnóm"
-      ],
-      "guild": {
-        "id": "66B6911E-2A34-F111-BB23-067697280D5B",
-        "name": "I Lmpw Flawless Execution",
-        "tag": "lmpw"
-      },
-      "dateStart": "2026-08-09T18:11:55.000Z",
-      "dateEnd": "2026-08-09T18:59:07.000Z",
-      "dateLabel": "9-8-2026, 20:11:55 - 9-8-2026, 20:59:07",
-      "url": "https://Xerioux.github.io/gw2reports/?report=20260809-201155-aa2u",
-      "summary": {
-        "borderlandsPct": 1,
-        "mapSlices": [
-          {
-            "name": "Blue Borderlands",
-            "value": 12,
-            "color": "#3b82f6"
-          },
-          {
-            "name": "Green Borderlands",
-            "value": 4,
-            "color": "#22c55e"
-          }
-        ],
-        "avgSquadSize": 28,
-        "avgEnemySize": 41
-      }
-    },
-    {
-      "id": "20260809-200927-hmy2",
-      "title": "Venômnomnóm",
-      "commanders": [
-        "Venômnomnóm"
-      ],
-      "guild": {
-        "id": "66B6911E-2A34-F111-BB23-067697280D5B",
-        "name": "I Lmpw Flawless Execution",
-        "tag": "lmpw"
-      },
-      "dateStart": "2026-08-09T18:09:27.000Z",
-      "dateEnd": "2026-08-09T18:59:07.000Z",
-      "dateLabel": "9-8-2026, 20:09:27 - 9-8-2026, 20:59:07",
-      "url": "https://Xerioux.github.io/gw2reports/?report=20260809-200927-hmy2",
-      "summary": {
-        "borderlandsPct": 1,
-        "mapSlices": [
-          {
-            "name": "Green Borderlands",
-            "value": 4,
-            "color": "#22c55e"
-          },
-          {
-            "name": "Blue Borderlands",
-            "value": 3,
-            "color": "#3b82f6"
-          }
-        ],
-        "avgSquadSize": 28,
-        "avgEnemySize": 33
-      }
-    },
-    {
-      "id": "20260806-212403-hlnp",
-      "title": "Venomnomnóm",
-      "commanders": [
-        "Venomnomnóm"
-      ],
-      "guild": {
-        "id": "66B6911E-2A34-F111-BB23-067697280D5B",
-        "name": "I Lmpw Flawless Execution",
-        "tag": "lmpw"
-      },
-      "dateStart": "2026-08-06T19:24:03.000Z",
-      "dateEnd": "2026-08-06T20:06:46.000Z",
-      "dateLabel": "6-8-2026, 21:24:03 - 6-8-2026, 22:06:46",
-      "url": "https://Xerioux.github.io/gw2reports/?report=20260806-212403-hlnp",
-      "summary": {
-        "borderlandsPct": 0,
-        "mapSlices": [
-          {
-            "name": "Obsidian Sanctum",
-            "value": 37,
-            "color": "#64748b"
-          }
-        ],
-        "avgSquadSize": 30,
-        "avgEnemySize": 31
-      }
-    },
-    {
-      "id": "20260723-201703-skvy",
-      "title": "Venomnomnóm",
-      "commanders": [
-        "Venomnomnóm"
-      ],
-      "dateStart": "2026-07-23T18:17:03.000Z",
-      "dateEnd": "2026-07-23T19:13:33.000Z",
-      "dateLabel": "23-7-2026, 20:17:03 - 23-7-2026, 21:13:33",
-      "url": "https://Xerioux.github.io/gw2reports/?report=20260723-201703-skvy",
-      "summary": {
-        "borderlandsPct": 0.22033898305084745,
-        "mapSlices": [
-          {
-            "name": "Edge of the Mists",
-            "value": 29,
-            "color": "#64748b"
-          },
-          {
-            "name": "Obsidian Sanctum",
-            "value": 17,
-            "color": "#64748b"
-          },
-          {
-            "name": "Blue Borderlands",
-            "value": 13,
-            "color": "#3b82f6"
-          }
-        ],
-        "avgSquadSize": 26,
-        "avgEnemySize": 32
-      }
-    },
-    {
-      "id": "20260703-210940-okju",
-      "title": "Skyhighjinks",
-      "commanders": [
-        "Skyhighjinks"
-      ],
-      "dateStart": "2026-07-03T19:09:40.000Z",
-      "dateEnd": "2026-07-03T20:15:54.000Z",
-      "dateLabel": "3-7-2026, 21:09:40 - 3-7-2026, 22:15:54",
-      "url": "https://Xerioux.github.io/gw2reports/?report=20260703-210940-okju",
-      "summary": {
-        "borderlandsPct": 1,
-        "mapSlices": [
-          {
-            "name": "Green Borderlands",
-            "value": 22,
-            "color": "#22c55e"
-          },
-          {
-            "name": "Blue Borderlands",
-            "value": 5,
-            "color": "#3b82f6"
-          },
-          {
-            "name": "Red Borderlands",
-            "value": 3,
-            "color": "#ef4444"
-          }
-        ],
-        "avgSquadSize": 25,
-        "avgEnemySize": 37
-      }
-    },
-    {
-      "id": "20260701-203215-x3ax",
-      "title": "Kaiser Kartoffel",
-      "commanders": [
-        "Kaiser Kartoffel"
-      ],
-      "dateStart": "2026-07-01T18:32:15.000Z",
-      "dateEnd": "2026-07-01T19:22:03.000Z",
-      "dateLabel": "1-7-2026, 20:32:15 - 1-7-2026, 21:22:03",
-      "url": "https://Xerioux.github.io/gw2reports/?report=20260701-203215-x3ax",
-      "summary": {
-        "borderlandsPct": 1,
-        "mapSlices": [
-          {
-            "name": "Green Borderlands",
-            "value": 22,
-            "color": "#22c55e"
-          }
-        ],
-        "avgSquadSize": 29,
-        "avgEnemySize": 41
-      }
-    },
-    {
-      "id": "20260629-204220-b3l7",
-      "title": "Arthur Stonehenge",
-      "commanders": [
-        "Arthur Stonehenge"
-      ],
-      "dateStart": "2026-06-29T18:42:20.000Z",
-      "dateEnd": "2026-06-29T19:35:29.000Z",
-      "dateLabel": "29-6-2026, 20:42:20 - 29-6-2026, 21:35:29",
-      "url": "https://Xerioux.github.io/gw2reports/?report=20260629-204220-b3l7",
-      "summary": {
-        "borderlandsPct": 1,
-        "mapSlices": [
-          {
-            "name": "Blue Borderlands",
-            "value": 21,
-            "color": "#3b82f6"
-          }
-        ],
-        "avgSquadSize": 39,
-        "avgEnemySize": 48
-      }
-    },
-    {
-      "id": "20260628-212954-27wo",
-      "title": "Venomnomnóm",
-      "commanders": [
-        "Venomnomnóm"
-      ],
-      "dateStart": "2026-06-28T19:29:54.000Z",
-      "dateEnd": "2026-06-28T20:02:18.000Z",
-      "dateLabel": "28-6-2026, 21:29:54 - 28-6-2026, 22:02:18",
-      "url": "https://Xerioux.github.io/gw2reports/?report=20260628-212954-27wo",
-      "summary": {
-        "borderlandsPct": 1,
-        "mapSlices": [
-          {
-            "name": "Blue Borderlands",
-            "value": 45,
-            "color": "#3b82f6"
-          }
-        ],
-        "avgSquadSize": 26,
-        "avgEnemySize": 22
-      }
+      "avgSquadSize": 37,
+      "avgEnemySize": 46
     }
-  ]
-}
+  },
+  {
+    "id": "20260907-204709-y45g",
+    "title": "Venomnomnóm",
+    "commanders": [
+      "Venomnomnóm"
+    ],
+    "guild": {
+      "id": "60C1E029-6D92-F111-BB0A-02C03D08B4F1",
+      "name": "Project Continuum",
+      "tag": "Flux"
+    },
+    "dateStart": "2026-09-07T18:47:09.000Z",
+    "dateEnd": "2026-09-07T19:49:58.280Z",
+    "dateLabel": "7-9-2026, 20:47:09 - 7-9-2026, 21:49:58",
+    "url": "https://Xerioux.github.io/gw2reports/?report=20260907-204709-y45g",
+    "summary": {
+      "borderlandsPct": 0.5769230769230769,
+      "mapSlices": [
+        {
+          "name": "Red Borderlands",
+          "value": 15,
+          "color": "#ef4444"
+        },
+        {
+          "name": "Edge of the Mists",
+          "value": 11,
+          "color": "#64748b"
+        }
+      ],
+      "avgSquadSize": 37,
+      "avgEnemySize": 46
+    }
+  },
+  {
+    "id": "20260907-204709-9jua",
+    "title": "Venomnomnóm",
+    "commanders": [
+      "Venomnomnóm"
+    ],
+    "guild": {
+      "id": "60C1E029-6D92-F111-BB0A-02C03D08B4F1",
+      "name": "Project Continuum",
+      "tag": "Flux"
+    },
+    "dateStart": "2026-09-07T18:47:09.000Z",
+    "dateEnd": "2026-09-07T19:49:58.280Z",
+    "dateLabel": "7-9-2026, 20:47:09 - 7-9-2026, 21:49:58",
+    "url": "https://Xerioux.github.io/gw2reports/?report=20260907-204709-9jua",
+    "summary": {
+      "borderlandsPct": 0.5769230769230769,
+      "mapSlices": [
+        {
+          "name": "Red Borderlands",
+          "value": 15,
+          "color": "#ef4444"
+        },
+        {
+          "name": "Edge of the Mists",
+          "value": 11,
+          "color": "#64748b"
+        }
+      ],
+      "avgSquadSize": 37,
+      "avgEnemySize": 46
+    }
+  },
+  {
+    "id": "20260905-201312-bk38",
+    "title": "Kaiser Kappu",
+    "commanders": [
+      "Kaiser Kappu"
+    ],
+    "guild": {
+      "id": "58F22165-8801-EE11-81B7-C3B1C0E42B51",
+      "name": "Æquínox",
+      "tag": "ÆX"
+    },
+    "dateStart": "2026-09-05T18:13:12.000Z",
+    "dateEnd": "2026-09-05T18:54:43.827Z",
+    "dateLabel": "5-9-2026, 20:13:12 - 5-9-2026, 20:54:43",
+    "url": "https://Xerioux.github.io/gw2reports/?report=20260905-201312-bk38",
+    "summary": {
+      "borderlandsPct": 0.45454545454545453,
+      "mapSlices": [
+        {
+          "name": "World vs World",
+          "value": 24,
+          "color": "#64748b"
+        },
+        {
+          "name": "Green Borderlands",
+          "value": 20,
+          "color": "#22c55e"
+        }
+      ],
+      "avgSquadSize": 48,
+      "avgEnemySize": 44
+    }
+  },
+  {
+    "id": "20260829-211718-9qdu",
+    "title": "Arthur Stonehenge",
+    "commanders": [
+      "Arthur Stonehenge"
+    ],
+    "guild": {
+      "id": "60C1E029-6D92-F111-BB0A-02C03D08B4F1",
+      "name": "Project Continuum",
+      "tag": "Flux"
+    },
+    "dateStart": "2026-08-29T19:17:18.000Z",
+    "dateEnd": "2026-08-29T19:50:36.292Z",
+    "dateLabel": "29-8-2026, 21:17:18 - 29-8-2026, 21:50:36",
+    "url": "https://Xerioux.github.io/gw2reports/?report=20260829-211718-9qdu",
+    "summary": {
+      "borderlandsPct": 1,
+      "mapSlices": [
+        {
+          "name": "Green Borderlands",
+          "value": 27,
+          "color": "#22c55e"
+        }
+      ],
+      "avgSquadSize": 35,
+      "avgEnemySize": 33
+    }
+  },
+  {
+    "id": "20260820-205930-47pf",
+    "title": "Venomnomnóm",
+    "commanders": [
+      "Venomnomnóm"
+    ],
+    "guild": {
+      "id": "DFC4F4C1-99CD-EE11-81B7-C3B1C0E42B51",
+      "name": "The Upper Echelons",
+      "tag": "KEKW"
+    },
+    "dateStart": "2026-08-20T18:59:30.000Z",
+    "dateEnd": "2026-08-20T19:45:57.544Z",
+    "dateLabel": "20-8-2026, 20:59:30 - 20-8-2026, 21:45:57",
+    "url": "https://Xerioux.github.io/gw2reports/?report=20260820-205930-47pf",
+    "summary": {
+      "borderlandsPct": 0,
+      "mapSlices": [
+        {
+          "name": "Edge of the Mists",
+          "value": 20,
+          "color": "#64748b"
+        }
+      ],
+      "avgSquadSize": 29,
+      "avgEnemySize": 29
+    }
+  },
+  {
+    "id": "20260818-200621-ftam",
+    "title": "Arthur Stonehenge, T B E Killu",
+    "commanders": [
+      "Arthur Stonehenge",
+      "T B E Killu"
+    ],
+    "guild": {
+      "id": "60C1E029-6D92-F111-BB0A-02C03D08B4F1",
+      "name": "Project Continuum",
+      "tag": "Flux"
+    },
+    "dateStart": "2026-08-18T18:06:21.000Z",
+    "dateEnd": "2026-08-18T18:58:20.000Z",
+    "dateLabel": "18-8-2026, 20:06:21 - 18-8-2026, 20:58:20",
+    "url": "https://Xerioux.github.io/gw2reports/?report=20260818-200621-ftam",
+    "summary": {
+      "borderlandsPct": 1,
+      "mapSlices": [
+        {
+          "name": "Green Borderlands",
+          "value": 21,
+          "color": "#22c55e"
+        },
+        {
+          "name": "Blue Borderlands",
+          "value": 8,
+          "color": "#3b82f6"
+        }
+      ],
+      "avgSquadSize": 33,
+      "avgEnemySize": 52
+    }
+  },
+  {
+    "id": "20260817-201030-npxd",
+    "title": "Venomnomnóm",
+    "commanders": [
+      "Venomnomnóm"
+    ],
+    "guild": {
+      "id": "60C1E029-6D92-F111-BB0A-02C03D08B4F1",
+      "name": "Project Continuum",
+      "tag": "Flux"
+    },
+    "dateStart": "2026-08-17T18:10:30.000Z",
+    "dateEnd": "2026-08-17T19:17:12.000Z",
+    "dateLabel": "17-8-2026, 20:10:30 - 17-8-2026, 21:17:12",
+    "url": "https://Xerioux.github.io/gw2reports/?report=20260817-201030-npxd",
+    "summary": {
+      "borderlandsPct": 1,
+      "mapSlices": [
+        {
+          "name": "Red Borderlands",
+          "value": 19,
+          "color": "#ef4444"
+        }
+      ],
+      "avgSquadSize": 31,
+      "avgEnemySize": 52
+    }
+  },
+  {
+    "id": "20260817-195925-ctz9",
+    "title": "Venomnomnóm",
+    "commanders": [
+      "Venomnomnóm"
+    ],
+    "guild": {
+      "id": "60C1E029-6D92-F111-BB0A-02C03D08B4F1",
+      "name": "Project Continuum",
+      "tag": "Flux"
+    },
+    "dateStart": "2026-08-17T17:59:25.000Z",
+    "dateEnd": "2026-08-17T18:55:21.000Z",
+    "dateLabel": "17-8-2026, 19:59:25 - 17-8-2026, 20:55:21",
+    "url": "https://Xerioux.github.io/gw2reports/?report=20260817-195925-ctz9",
+    "summary": {
+      "borderlandsPct": 1,
+      "mapSlices": [
+        {
+          "name": "Red Borderlands",
+          "value": 21,
+          "color": "#ef4444"
+        }
+      ],
+      "avgSquadSize": 29,
+      "avgEnemySize": 50
+    }
+  },
+  {
+    "id": "20260809-201155-aa2u",
+    "title": "Venômnomnóm",
+    "commanders": [
+      "Venômnomnóm"
+    ],
+    "guild": {
+      "id": "66B6911E-2A34-F111-BB23-067697280D5B",
+      "name": "I Lmpw Flawless Execution",
+      "tag": "lmpw"
+    },
+    "dateStart": "2026-08-09T18:11:55.000Z",
+    "dateEnd": "2026-08-09T18:59:07.000Z",
+    "dateLabel": "9-8-2026, 20:11:55 - 9-8-2026, 20:59:07",
+    "url": "https://Xerioux.github.io/gw2reports/?report=20260809-201155-aa2u",
+    "summary": {
+      "borderlandsPct": 1,
+      "mapSlices": [
+        {
+          "name": "Blue Borderlands",
+          "value": 12,
+          "color": "#3b82f6"
+        },
+        {
+          "name": "Green Borderlands",
+          "value": 4,
+          "color": "#22c55e"
+        }
+      ],
+      "avgSquadSize": 28,
+      "avgEnemySize": 41
+    }
+  },
+  {
+    "id": "20260809-200927-hmy2",
+    "title": "Venômnomnóm",
+    "commanders": [
+      "Venômnomnóm"
+    ],
+    "guild": {
+      "id": "66B6911E-2A34-F111-BB23-067697280D5B",
+      "name": "I Lmpw Flawless Execution",
+      "tag": "lmpw"
+    },
+    "dateStart": "2026-08-09T18:09:27.000Z",
+    "dateEnd": "2026-08-09T18:59:07.000Z",
+    "dateLabel": "9-8-2026, 20:09:27 - 9-8-2026, 20:59:07",
+    "url": "https://Xerioux.github.io/gw2reports/?report=20260809-200927-hmy2",
+    "summary": {
+      "borderlandsPct": 1,
+      "mapSlices": [
+        {
+          "name": "Green Borderlands",
+          "value": 4,
+          "color": "#22c55e"
+        },
+        {
+          "name": "Blue Borderlands",
+          "value": 3,
+          "color": "#3b82f6"
+        }
+      ],
+      "avgSquadSize": 28,
+      "avgEnemySize": 33
+    }
+  },
+  {
+    "id": "20260806-212403-hlnp",
+    "title": "Venomnomnóm",
+    "commanders": [
+      "Venomnomnóm"
+    ],
+    "guild": {
+      "id": "66B6911E-2A34-F111-BB23-067697280D5B",
+      "name": "I Lmpw Flawless Execution",
+      "tag": "lmpw"
+    },
+    "dateStart": "2026-08-06T19:24:03.000Z",
+    "dateEnd": "2026-08-06T20:06:46.000Z",
+    "dateLabel": "6-8-2026, 21:24:03 - 6-8-2026, 22:06:46",
+    "url": "https://Xerioux.github.io/gw2reports/?report=20260806-212403-hlnp",
+    "summary": {
+      "borderlandsPct": 0,
+      "mapSlices": [
+        {
+          "name": "Obsidian Sanctum",
+          "value": 37,
+          "color": "#64748b"
+        }
+      ],
+      "avgSquadSize": 30,
+      "avgEnemySize": 31
+    }
+  },
+  {
+    "id": "20260723-201703-skvy",
+    "title": "Venomnomnóm",
+    "commanders": [
+      "Venomnomnóm"
+    ],
+    "dateStart": "2026-07-23T18:17:03.000Z",
+    "dateEnd": "2026-07-23T19:13:33.000Z",
+    "dateLabel": "23-7-2026, 20:17:03 - 23-7-2026, 21:13:33",
+    "url": "https://Xerioux.github.io/gw2reports/?report=20260723-201703-skvy",
+    "summary": {
+      "borderlandsPct": 0.22033898305084745,
+      "mapSlices": [
+        {
+          "name": "Edge of the Mists",
+          "value": 29,
+          "color": "#64748b"
+        },
+        {
+          "name": "Obsidian Sanctum",
+          "value": 17,
+          "color": "#64748b"
+        },
+        {
+          "name": "Blue Borderlands",
+          "value": 13,
+          "color": "#3b82f6"
+        }
+      ],
+      "avgSquadSize": 26,
+      "avgEnemySize": 32
+    }
+  },
+  {
+    "id": "20260703-210940-okju",
+    "title": "Skyhighjinks",
+    "commanders": [
+      "Skyhighjinks"
+    ],
+    "dateStart": "2026-07-03T19:09:40.000Z",
+    "dateEnd": "2026-07-03T20:15:54.000Z",
+    "dateLabel": "3-7-2026, 21:09:40 - 3-7-2026, 22:15:54",
+    "url": "https://Xerioux.github.io/gw2reports/?report=20260703-210940-okju",
+    "summary": {
+      "borderlandsPct": 1,
+      "mapSlices": [
+        {
+          "name": "Green Borderlands",
+          "value": 22,
+          "color": "#22c55e"
+        },
+        {
+          "name": "Blue Borderlands",
+          "value": 5,
+          "color": "#3b82f6"
+        },
+        {
+          "name": "Red Borderlands",
+          "value": 3,
+          "color": "#ef4444"
+        }
+      ],
+      "avgSquadSize": 25,
+      "avgEnemySize": 37
+    }
+  },
+  {
+    "id": "20260701-203215-x3ax",
+    "title": "Kaiser Kartoffel",
+    "commanders": [
+      "Kaiser Kartoffel"
+    ],
+    "dateStart": "2026-07-01T18:32:15.000Z",
+    "dateEnd": "2026-07-01T19:22:03.000Z",
+    "dateLabel": "1-7-2026, 20:32:15 - 1-7-2026, 21:22:03",
+    "url": "https://Xerioux.github.io/gw2reports/?report=20260701-203215-x3ax",
+    "summary": {
+      "borderlandsPct": 1,
+      "mapSlices": [
+        {
+          "name": "Green Borderlands",
+          "value": 22,
+          "color": "#22c55e"
+        }
+      ],
+      "avgSquadSize": 29,
+      "avgEnemySize": 41
+    }
+  },
+  {
+    "id": "20260629-204220-b3l7",
+    "title": "Arthur Stonehenge",
+    "commanders": [
+      "Arthur Stonehenge"
+    ],
+    "dateStart": "2026-06-29T18:42:20.000Z",
+    "dateEnd": "2026-06-29T19:35:29.000Z",
+    "dateLabel": "29-6-2026, 20:42:20 - 29-6-2026, 21:35:29",
+    "url": "https://Xerioux.github.io/gw2reports/?report=20260629-204220-b3l7",
+    "summary": {
+      "borderlandsPct": 1,
+      "mapSlices": [
+        {
+          "name": "Blue Borderlands",
+          "value": 21,
+          "color": "#3b82f6"
+        }
+      ],
+      "avgSquadSize": 39,
+      "avgEnemySize": 48
+    }
+  },
+  {
+    "id": "20260628-212954-27wo",
+    "title": "Venomnomnóm",
+    "commanders": [
+      "Venomnomnóm"
+    ],
+    "dateStart": "2026-06-28T19:29:54.000Z",
+    "dateEnd": "2026-06-28T20:02:18.000Z",
+    "dateLabel": "28-6-2026, 21:29:54 - 28-6-2026, 22:02:18",
+    "url": "https://Xerioux.github.io/gw2reports/?report=20260628-212954-27wo",
+    "summary": {
+      "borderlandsPct": 1,
+      "mapSlices": [
+        {
+          "name": "Blue Borderlands",
+          "value": 45,
+          "color": "#3b82f6"
+        }
+      ],
+      "avgSquadSize": 26,
+      "avgEnemySize": 22
+    }
+  }
+]
