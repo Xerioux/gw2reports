@@ -4,6 +4,34 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20260918-200916-ndq3",
+      "title": "Venomnomnóm",
+      "commanders": [
+        "Venomnomnóm"
+      ],
+      "guild": {
+        "id": "60C1E029-6D92-F111-BB0A-02C03D08B4F1",
+        "name": "Project Continuum",
+        "tag": "Flux"
+      },
+      "dateStart": "2026-09-18T18:09:16.000Z",
+      "dateEnd": "2026-09-18T18:44:51.942Z",
+      "dateLabel": "18-9-2026, 20:09:16 - 18-9-2026, 20:44:51",
+      "url": "https://Xerioux.github.io/gw2reports/?report=20260918-200916-ndq3",
+      "summary": {
+        "borderlandsPct": 1,
+        "mapSlices": [
+          {
+            "name": "Blue Borderlands",
+            "value": 42,
+            "color": "#3b82f6"
+          }
+        ],
+        "avgSquadSize": 39,
+        "avgEnemySize": 47
+      }
+    },
+    {
       "id": "20260909-200846-ocd7",
       "title": "T B E Tim",
       "commanders": [
