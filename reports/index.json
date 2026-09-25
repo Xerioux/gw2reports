@@ -2,7 +2,41 @@
   "colorPalette": "amber-warm",
   "glassSurfaces": true,
   "glassmorphic": false,
+  "axiDesign": false,
   "entries": [
+    {
+      "id": "20260925-200807-uabs",
+      "title": "Jelbys Clone",
+      "commanders": [
+        "Jelbys Clone"
+      ],
+      "guild": {
+        "id": "60C1E029-6D92-F111-BB0A-02C03D08B4F1",
+        "name": "Project Continuum",
+        "tag": "Flux"
+      },
+      "dateStart": "2026-09-25T18:08:07.000Z",
+      "dateEnd": "2026-09-25T19:04:36.612Z",
+      "dateLabel": "25-9-2026, 20:08:07 - 25-9-2026, 21:04:36",
+      "url": "https://Xerioux.github.io/gw2reports/?report=20260925-200807-uabs",
+      "summary": {
+        "borderlandsPct": 1,
+        "mapSlices": [
+          {
+            "name": "Blue Borderlands",
+            "value": 17,
+            "color": "#3b82f6"
+          },
+          {
+            "name": "Green Borderlands",
+            "value": 8,
+            "color": "#22c55e"
+          }
+        ],
+        "avgSquadSize": 39,
+        "avgEnemySize": 43
+      }
+    },
     {
       "id": "20260921-195556-6qpd",
       "title": "Venomnomnóm",
