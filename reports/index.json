@@ -5,6 +5,34 @@
   "axiDesign": false,
   "entries": [
     {
+      "id": "20260928-205730-xmx8",
+      "title": "Venomnomnóm",
+      "commanders": [
+        "Venomnomnóm"
+      ],
+      "guild": {
+        "id": "60C1E029-6D92-F111-BB0A-02C03D08B4F1",
+        "name": "Project Continuum",
+        "tag": "Flux"
+      },
+      "dateStart": "2026-09-28T18:57:30.000Z",
+      "dateEnd": "2026-09-28T19:47:48.131Z",
+      "dateLabel": "28-9-2026, 20:57:30 - 28-9-2026, 21:47:48",
+      "url": "https://Xerioux.github.io/gw2reports/?report=20260928-205730-xmx8",
+      "summary": {
+        "borderlandsPct": 0,
+        "mapSlices": [
+          {
+            "name": "Edge of the Mists",
+            "value": 22,
+            "color": "#64748b"
+          }
+        ],
+        "avgSquadSize": 38,
+        "avgEnemySize": 35
+      }
+    },
+    {
       "id": "20260928-205730-q8c0",
       "title": "Venomnomnóm",
       "commanders": [
