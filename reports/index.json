@@ -5,6 +5,34 @@
   "glassSurfaces": false,
   "entries": [
     {
+      "id": "20261002-205136-4zwy",
+      "title": "Arthur Stonehenge",
+      "commanders": [
+        "Arthur Stonehenge"
+      ],
+      "guild": {
+        "id": "60C1E029-6D92-F111-BB0A-02C03D08B4F1",
+        "name": "Project Continuum",
+        "tag": "Flux"
+      },
+      "dateStart": "2026-10-02T18:51:36.000Z",
+      "dateEnd": "2026-10-02T19:42:01.480Z",
+      "dateLabel": "2-10-2026, 20:51:36 - 2-10-2026, 21:42:01",
+      "url": "https://Xerioux.github.io/gw2reports/?report=20261002-205136-4zwy",
+      "summary": {
+        "borderlandsPct": 0,
+        "mapSlices": [
+          {
+            "name": "World vs World",
+            "value": 23,
+            "color": "#64748b"
+          }
+        ],
+        "avgSquadSize": 50,
+        "avgEnemySize": 47
+      }
+    },
+    {
       "id": "20261002-204652-xkjy",
       "title": "Arthur Stonehenge",
       "commanders": [
