@@ -5,6 +5,34 @@
   "glassSurfaces": false,
   "entries": [
     {
+      "id": "20261004-200727-d5fe",
+      "title": "Venomnomnóm",
+      "commanders": [
+        "Venomnomnóm"
+      ],
+      "guild": {
+        "id": "DFC4F4C1-99CD-EE11-81B7-C3B1C0E42B51",
+        "name": "The Upper Echelons",
+        "tag": "KEKW"
+      },
+      "dateStart": "2026-10-04T18:07:27.000Z",
+      "dateEnd": "2026-10-04T18:58:13.753Z",
+      "dateLabel": "4-10-2026, 20:07:27 - 4-10-2026, 20:58:13",
+      "url": "https://Xerioux.github.io/gw2reports/?report=20261004-200727-d5fe",
+      "summary": {
+        "borderlandsPct": 1,
+        "mapSlices": [
+          {
+            "name": "Green Borderlands",
+            "value": 16,
+            "color": "#22c55e"
+          }
+        ],
+        "avgSquadSize": 30,
+        "avgEnemySize": 32
+      }
+    },
+    {
       "id": "20261004-200727-0tzf",
       "title": "Venomnomnóm",
       "commanders": [
