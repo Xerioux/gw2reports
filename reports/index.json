@@ -9,6 +9,35 @@
   },
   "entries": [
     {
+      "id": "20261018-200556-rwkk",
+      "title": "Venomnomnóm",
+      "commanders": [
+        "Venomnomnóm"
+      ],
+      "guild": {
+        "id": "DFC4F4C1-99CD-EE11-81B7-C3B1C0E42B51",
+        "name": "The Upper Echelons",
+        "tag": "KEKW"
+      },
+      "dateStart": "2026-10-18T18:05:56.000Z",
+      "dateEnd": "2026-10-18T18:43:31.251Z",
+      "dateLabel": "18-10-2026, 20:05:56 - 18-10-2026, 20:43:31",
+      "url": "https://Xerioux.github.io/gw2reports/?report=20261018-200556-rwkk",
+      "publishedBy": "Xerioux",
+      "summary": {
+        "borderlandsPct": 1,
+        "mapSlices": [
+          {
+            "name": "Blue Borderlands",
+            "value": 40,
+            "color": "#3b82f6"
+          }
+        ],
+        "avgSquadSize": 25,
+        "avgEnemySize": 50
+      }
+    },
+    {
       "id": "20261016-204634-ir7j",
       "title": "Arthur Stonehenge",
       "commanders": [
