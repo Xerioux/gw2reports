@@ -9,6 +9,35 @@
   },
   "entries": [
     {
+      "id": "20261026-200933-6god",
+      "title": "Arthur Mes",
+      "commanders": [
+        "Arthur Mes"
+      ],
+      "guild": {
+        "id": "DFC4F4C1-99CD-EE11-81B7-C3B1C0E42B51",
+        "name": "The Upper Echelons",
+        "tag": "KEKW"
+      },
+      "dateStart": "2026-10-26T19:09:33.000Z",
+      "dateEnd": "2026-10-26T19:55:36.093Z",
+      "dateLabel": "26-10-2026, 20:09:33 - 26-10-2026, 20:55:36",
+      "url": "https://Xerioux.github.io/gw2reports/?report=20261026-200933-6god",
+      "publishedBy": "Xerioux",
+      "summary": {
+        "borderlandsPct": 1,
+        "mapSlices": [
+          {
+            "name": "Green Borderlands",
+            "value": 9,
+            "color": "#22c55e"
+          }
+        ],
+        "avgSquadSize": 27,
+        "avgEnemySize": 35
+      }
+    },
+    {
       "id": "20261021-200155-hsdw",
       "title": "Arthur Mes",
       "commanders": [
