@@ -5,9 +5,43 @@
   "glassSurfaces": false,
   "generator": {
     "app": "axibridge",
-    "version": "3.22.9"
+    "version": "3.22.10"
   },
   "entries": [
+    {
+      "id": "20261027-195742-jljb",
+      "title": "Venomnomnóm",
+      "commanders": [
+        "Venomnomnóm"
+      ],
+      "guild": {
+        "id": "60C1E029-6D92-F111-BB0A-02C03D08B4F1",
+        "name": "Project Continuum",
+        "tag": "Flux"
+      },
+      "dateStart": "2026-10-27T18:57:42.000Z",
+      "dateEnd": "2026-10-27T19:40:44.513Z",
+      "dateLabel": "27-10-2026, 19:57:42 - 27-10-2026, 20:40:44",
+      "url": "https://Xerioux.github.io/gw2reports/?report=20261027-195742-jljb",
+      "publishedBy": "Xerioux",
+      "summary": {
+        "borderlandsPct": 1,
+        "mapSlices": [
+          {
+            "name": "Blue Borderlands",
+            "value": 28,
+            "color": "#3b82f6"
+          },
+          {
+            "name": "Green Borderlands",
+            "value": 1,
+            "color": "#22c55e"
+          }
+        ],
+        "avgSquadSize": 30,
+        "avgEnemySize": 46
+      }
+    },
     {
       "id": "20261026-210842-pt6z",
       "title": "Arthur Mes",
