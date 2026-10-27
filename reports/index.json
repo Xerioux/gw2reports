@@ -9,6 +9,35 @@
   },
   "entries": [
     {
+      "id": "20261027-213025-fyj0",
+      "title": "Venomnomnóm",
+      "commanders": [
+        "Venomnomnóm"
+      ],
+      "guild": {
+        "id": "60C1E029-6D92-F111-BB0A-02C03D08B4F1",
+        "name": "Project Continuum",
+        "tag": "Flux"
+      },
+      "dateStart": "2026-10-27T20:30:25.000Z",
+      "dateEnd": "2026-10-27T21:00:17.367Z",
+      "dateLabel": "27-10-2026, 21:30:25 - 27-10-2026, 22:00:17",
+      "url": "https://Xerioux.github.io/gw2reports/?report=20261027-213025-fyj0",
+      "publishedBy": "Xerioux",
+      "summary": {
+        "borderlandsPct": 0,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 10,
+            "color": "#ffffff"
+          }
+        ],
+        "avgSquadSize": 27,
+        "avgEnemySize": 66
+      }
+    },
+    {
       "id": "20261027-195742-jljb",
       "title": "Venomnomnóm",
       "commanders": [
